@@ -1,6 +1,6 @@
 import smtplib
 GMAIL_USER='itss07@gmail.com'
-GMAIL_PASS='Tyco1234@'
+GMAIL_PASS='XXXXXX'
 SMTP_SERVER='smtp.gmail.com'
 SMTP_PORT=587
 
