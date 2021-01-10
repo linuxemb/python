@@ -1,2 +1,154 @@
  https://github.com/PacktPublishing/The-Complete-Python-Course
+https://www.blogger.com/blog/post/edit/1336285688380987419/9155336387970535239https://www.blogger.com/blog/post/edit/1336285688380987419/4532793840154770395
 
+
+output of test
+My friends are ['Rolf', 'Anne', 'Charlie'].
+
+My friends are Rolf, Anne, Charlie.
+
+average 86.25
+
+=============dirc====
+
+Rolf 's age is :24
+
++++++ dict frineds
+
+{'Rolf': 24, 'Adam': 30}
+
+ZIP++++++
+
+{'Rolf': 3, 'Bob': 7, 'Jen': 15, 'Anne': 11}
+
+art_frindes1: {'Rold', 'Jen'}
+
+art_butnotsicec , {'Anne', 'Rolf'}
+
+science_butnotare, {'Charlie'}
+
+{'Anne', 'Rolf', 'Charlie'}
+
+{'Jen'}
+
+{'Rolf', 'Anne', 'Charlie', 'Jen'}
+
+('Rolf', 'BoB')
+
+Rolf
+
+3
+
+24
+
+Bob
+
+2 is a prime number.
+
+3 is a prime number.
+
+4 equals 2 * 2
+
+5 is a prime number.
+
+6 equals 2 * 3
+
+7 is a prime number.
+
+8 equals 2 * 4
+
+9 equals 3 * 3
+
+This car is ok.
+
+This car is ok.
+
+This car is ok.
+
+Stopping the production line!
+
+=====This car is ok.
+
+=====Shipping new car to customer!
+
+=====This car is ok.
+
+=====Shipping new car to customer!
+
+=====This car is ok.
+
+=====Shipping new car to customer!
+
+======sFound faulty car, skipping...
+
+=====This car is ok.
+
+=====Shipping new car to customer!
+
+=====This car is ok.
+
+=====Shipping new car to customer!
+
+Rolf
+
+Anne
+
+Charlie
+
+Bob
+
+25
+
+37
+
+31
+
+22
+
+Rolf is 25 years old.
+
+Anne is 37 years old.
+
+Charlie is 31 years old.
+
+Bob is 22 years old.
+
+++++++++++++++++=lambda++++++++++++++++++++
+
+18
+
++++++++  Average +++++++++++++++++
+
+77.75
+
++++++++  Average +++++++++++++++++
+
+42.25
+
++++++++  Lamda Average +++++++++++++++++
+
+77.75
+
+42.25
+
+Student: Rolf
+
+enter 'average' 'total' or 'top'top
+
+100
+
+Student: Bob
+
+enter 'average' 'total' or 'top'total
+
+304
+
+Student: Jen
+
+enter 'average' 'total' or 'top'average
+
+95.5
+
+Student: Anne
+
+enter 'average' 'total' or 'top'
